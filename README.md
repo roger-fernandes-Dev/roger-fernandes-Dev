@@ -9,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-fernandes-Dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <i class="devicon-html5-plain-wordmark colored"></i>
+
+
 
 </div>
