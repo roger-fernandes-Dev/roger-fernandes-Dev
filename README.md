@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roger-fernandes-Dev)](https://github.com/anuraghazra/github-readme-stats)
 
-Experiência em técnologias
+Experience in technologies
 
 <div style="display: inline_block"><br />
     <img align="center" alt="roger_html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
