@@ -3,6 +3,33 @@
 Atualmente estudando desenvolvimento **Front-end** e iniciando minha jornada em **Web3 e Blockchain**, focado em entender a fundo como essa tecnologia funciona.  
 Aqui registro minha evolução, projetos de estudo e exercícios que faço diariamente para melhorar como programador.
 
+📘 Formação
+
+Engenharia de Software – Gran Faculdade
+Atualmente no 1º semestre. Muito feliz por poder estudar de forma flexível e construir minha transição para tecnologia.
+
+Ciência da Computação – UNIP (Universidade Paulista)
+Estudei em Araçatuba. Concluí os anos do curso, porém não finalizei por questões financeiras.
+Mesmo sem diploma, aprendi muita base importante que continuo usando hoje.
+
+📱 Projeto Atual
+Aplicativo Mobile para Manicure – Desenvolvimento Ativo
+
+Estou criando um app simples e eficiente para manicures organizarem horários, clientes e serviços.
+O foco é aprender e aplicar:
+
+Front-end mobile
+
+React Native / Expo
+
+Lógica de negócios
+
+Boas práticas de código
+
+Conexão futura com backend
+
+Em breve vou publicar o repositório e mostrar minha evolução.
+
 ---
 
 ## 🚀 Tecnologias que estou estudando
