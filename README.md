@@ -32,7 +32,7 @@ Em breve vou publicar o repositório e mostrar minha evolução.
 
 minha evolução nos treinos na CodWars
 
-[![Codewars Badge](https://www.codewars.com/users/roger-fernandes-Dev/badges/large)](https://www.codewars.com/users/roger-fernandes-Dev)
+[![Codewars Badge](https://www.codewars.com/users/roger-fernandes-Dev/badges/small)](https://www.codewars.com/users/roger-fernandes-Dev)
 
 
 ---
