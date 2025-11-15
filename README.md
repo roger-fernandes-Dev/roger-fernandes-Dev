@@ -30,6 +30,9 @@ Conexão futura com backend
 
 Em breve vou publicar o repositório e mostrar minha evolução.
 
+[![Codewars Badge](https://www.codewars.com/users/roger-fernandes-Dev/badges/large)](https://www.codewars.com/users/roger-fernandes-Dev)
+
+
 ---
 
 ## 🚀 Tecnologias que estou estudando
